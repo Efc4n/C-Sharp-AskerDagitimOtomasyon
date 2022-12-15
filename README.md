@@ -1,6 +1,6 @@
 # C# - Asker Dağıtım Otomasyonu
 
-Öncelikle Selamlar Hazırlamış Olduğum Takipçi Satış Sitesini Sizinle Paylaşıyorum.
+Öncelikle Selamlar Hazırlamış Olduğum Asker Dağıtım Otomasyonunu Sizinle Paylaşıyorum.
 
 # KURULUM
 - [🛠 Gerekenler](#-gerekenler)
